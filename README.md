@@ -1,5 +1,5 @@
 ## Olá, eu sou o Ricardo!
-[![Static Badge](https://img.shields.io/badge/ricardoribeiroff%20-%20blue)]([https://www.linkedin.com/in/ricardoribeiro](https://www.linkedin.com/in/ricardo-ribeiro-2a7b78249/))
+[![Static Badge](https://img.shields.io/badge/ricardoribeiroff%20-%20blue)](https://www.linkedin.com/in/ricardo-ribeiro-2a7b78249/)
 
 Estagiário na [bp bioenergy](https://www.linkedin.com/company/bp-bioenergy/).
 
